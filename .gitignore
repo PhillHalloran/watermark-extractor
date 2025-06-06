@@ -1,0 +1,16 @@
+# Python cache and bytecode
+__pycache__/
+*.pyc
+
+# Environment-specific
+.venv/
+venv/
+env/
+*.sqlite
+*.db
+
+# VS Code settings
+.vscode/
+
+# Downloaded video temp dirs
+wm_download_*/
