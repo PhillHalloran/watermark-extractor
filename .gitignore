@@ -14,3 +14,5 @@ env/
 
 # Downloaded video temp dirs
 wm_download_*/
+
+tests/assets/*.mp4
